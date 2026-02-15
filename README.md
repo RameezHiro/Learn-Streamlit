@@ -1,2 +1,2 @@
 # Streamlit
-I'm going to document my learning of Streamlit
+Interactive data visualization projects using Streamlit
